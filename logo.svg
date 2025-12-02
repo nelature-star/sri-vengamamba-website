@@ -1,0 +1,9 @@
+<svg width="480" height="140" viewBox="0 0 480 140" xmlns="http://www.w3.org/2000/svg">
+<rect width="100%" height="100%" fill="#8C181A"/>
+<g fill="white" font-family="Georgia, serif">
+<text x="50%" y="55%" font-size="32" font-weight="bold" text-anchor="middle">Sri Vengamamba</text>
+<text x="50%" y="80%" font-size="22" text-anchor="middle">Building Material Supplier</text>
+</g>
+<polygon points="240,20 210,55 270,55" fill="#FFD700"/>
+<polygon points="240,5 220,30 260,30" fill="#FFD700"/>
+</svg>

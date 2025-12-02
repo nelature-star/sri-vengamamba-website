@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #8C181A;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.logo {
+    width: 180px;
+    margin-bottom: 10px;
+}
+
+.navbar a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    padding: 120px 20px;
+    text-align: center;
+    color: white;
+}
+
+.hero .btn {
+    background: #FFD700;
+    padding: 12px 25px;
+    border-radius: 5px;
+    color: #000;
+    text-decoration: none;
+    margin-top: 15px;
+    display: inline-block;
+}
+
+.intro, .about, .contact {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.product-card {
+    width: 300px;
+    background: #fafafa;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.product-card img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.contact-form {
+    max-width: 450px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form input,
+.contact-form textarea {
+    margin: 10px 0;
+    padding: 12px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    padding: 12px;
+    border: none;
+    background: #8C181A;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background: #8C181A;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
